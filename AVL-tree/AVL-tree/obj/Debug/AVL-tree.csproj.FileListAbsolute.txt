@@ -1,0 +1,34 @@
+D:\University\Программы from Cricetus\С#\SS\AVL-tree\AVL-tree\bin\Debug\AVL-tree.exe.config
+D:\University\Программы from Cricetus\С#\SS\AVL-tree\AVL-tree\bin\Debug\AVL-tree.exe
+D:\University\Программы from Cricetus\С#\SS\AVL-tree\AVL-tree\bin\Debug\AVL-tree.pdb
+D:\University\Программы from Cricetus\С#\SS\AVL-tree\AVL-tree\obj\Debug\AVL-tree.csprojResolveAssemblyReference.cache
+D:\University\Программы from Cricetus\С#\SS\AVL-tree\AVL-tree\obj\Debug\AVL_tree.Form1.resources
+D:\University\Программы from Cricetus\С#\SS\AVL-tree\AVL-tree\obj\Debug\AVL_tree.Properties.Resources.resources
+D:\University\Программы from Cricetus\С#\SS\AVL-tree\AVL-tree\obj\Debug\AVL-tree.csproj.GenerateResource.Cache
+D:\University\Программы from Cricetus\С#\SS\AVL-tree\AVL-tree\obj\Debug\AVL-tree.exe
+D:\University\Программы from Cricetus\С#\SS\AVL-tree\AVL-tree\obj\Debug\AVL-tree.pdb
+D:\AVL-tree\AVL-tree\bin\Debug\AVL-tree.exe.config
+D:\AVL-tree\AVL-tree\obj\Debug\AVL-tree.exe
+D:\AVL-tree\AVL-tree\obj\Debug\AVL-tree.pdb
+D:\AVL-tree\AVL-tree\bin\Debug\AVL-tree.exe
+D:\AVL-tree\AVL-tree\bin\Debug\AVL-tree.pdb
+D:\AVL-tree\AVL-tree\obj\Debug\AVL_tree.Form1.resources
+D:\AVL-tree\AVL-tree\obj\Debug\AVL_tree.Properties.Resources.resources
+D:\AVL-tree\AVL-tree\obj\Debug\AVL-tree.csproj.GenerateResource.Cache
+D:\AVL-tree\AVL-tree\obj\Debug\AVL-tree.csprojResolveAssemblyReference.cache
+F:\AVL-tree\AVL-tree\bin\Debug\AVL-tree.exe.config
+F:\AVL-tree\AVL-tree\obj\Debug\AVL-tree.exe
+F:\AVL-tree\AVL-tree\obj\Debug\AVL-tree.pdb
+F:\AVL-tree\AVL-tree\bin\Debug\AVL-tree.exe
+F:\AVL-tree\AVL-tree\bin\Debug\AVL-tree.pdb
+F:\AVL-tree\AVL-tree\bin\Debug\mscorlib.dll
+F:\AVL-tree\AVL-tree\bin\Debug\ru\mscorlib.resources.dll
+F:\AVL-tree\AVL-tree\bin\Debug\normidna.nlp
+F:\AVL-tree\AVL-tree\bin\Debug\normnfc.nlp
+F:\AVL-tree\AVL-tree\bin\Debug\normnfd.nlp
+F:\AVL-tree\AVL-tree\bin\Debug\normnfkc.nlp
+F:\AVL-tree\AVL-tree\bin\Debug\normnfkd.nlp
+F:\AVL-tree\AVL-tree\obj\Debug\AVL-tree.csprojResolveAssemblyReference.cache
+F:\AVL-tree\AVL-tree\obj\Debug\AVL_tree.Form1.resources
+F:\AVL-tree\AVL-tree\obj\Debug\AVL_tree.Properties.Resources.resources
+F:\AVL-tree\AVL-tree\obj\Debug\AVL-tree.csproj.GenerateResource.Cache
