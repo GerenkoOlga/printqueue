@@ -60,26 +60,29 @@ namespace AVL_tree
         }
         private void ShowPrintQueue(int highlightedOne)
         {
+            //Отобразить состояние очереди
             richTextBox3.Text = "";
             AVLTree<Client> reservedQueue = new AVLTree<Client>();
             Client[] clientArr = new Client[highlightedOne];
-            m_printerQueue.CopyTo(clientArr);//copy queue
+            m_printerQueue.CopyTo(clientArr);//скопруем очередь в массив клиентов
             foreach (Client element in clientArr)
-                    {
-                      reservedQueue.Add(element);
-                    }
-                int count = reservedQueue.Count;
+            {
+                // делаем копию очереди reservedQueue, ее и распечатываем
+                reservedQueue.Add(element);
+            }
+            int count = reservedQueue.Count;
             for (int i = 0; i < count; i++)
             {
-                Client peekedClient = reservedQueue.MaxValue;
+                Client peekedClient = reservedQueue.MaxValue;//метод, возвращающий клиента с максимальным приоритетом
                 bool d = reservedQueue.Remove(peekedClient);
-                richTextBox3.Text += (i + 1).ToString() + ". " + peekedClient.GetClientName() + " (" + peekedClient.GetPriority() + ")" + "    [" + peekedClient.GetLeftTime() + "]";
+                richTextBox3.Text += (i + 1).ToString() + ". " + peekedClient.GetClientName() + " ("
+                + peekedClient.GetPriority() + ")" + "    [" + peekedClient.GetLeftTime() + "]";
                 if (i == highlightedOne || peekedClient.GetTimeInQueue() < 3)
-                richTextBox3.Text += "  <<<";
+                    richTextBox3.Text += "  <<<";
                 richTextBox3.Text += "\n";
             }
         }
 
-       
+
     }
 }
